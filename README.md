@@ -4,15 +4,23 @@
 The EASY MART Billing System is a simple Python-based console application that allows users to:
 
 Enter multiple items
+
 Calculate subtotal
+
 Apply discount based on total amount
+
 Display final bill amount
 
 This project demonstrates:
+
 User input handling
+
 Loops
+
 Conditional statements
+
 Basic billing logic
+
 Formatted output
 
 🚀 Features
@@ -27,6 +35,7 @@ Formatted output
 💻 Technologies Used
 
 Python 3
+
 Basic Programming Concepts
 
 📊 Discount Criteria
@@ -66,33 +75,50 @@ Visit Again!
 🧠 How It Works
 
 User enters number of items.
+
 For each item:
 
 Name
+
 Price
+
 Quantity
+
 Program calculates:
+
 Item total
+
 Subtotal
+
 Discount (based on slab)
+
 Final amount
+
 Bill is displayed neatly.
 
 📂 How to Run
 
 Install Python (if not installed).
+
 Save the file as easy_mart.py
+
 Run the program:
+
 python easy_mart.py
 🎯 Learning Outcome
 
 This project helps in understanding:
 
 For loops
+
 If-elif conditions
+
 Arithmetic operations
+
 Formatted printing
+
 Basic billing system logic
 
 👨‍💻 Author
+
 Nithish
